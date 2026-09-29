@@ -1,17 +1,36 @@
 # Business Analyst Sales Analysis Project
 
 ## Project Overview
-This project analyzes sales data to identify sales performance, customer trends, product performance, and regional insights.
 
-## Tools Used
-- Microsoft Excel
+This project analyzes business sales data to identify sales performance, customer trends, product performance, and regional insights using Excel, SQL, and Power BI.
+
+## Tools & Technologies
+
+### Excel
+- Data Cleaning
 - Pivot Tables
 - XLOOKUP / VLOOKUP
-- Data Cleaning
 - Data Analysis
 - Charts and Visualizations
 
+### SQL
+- Data Filtering
+- Aggregate Functions
+- GROUP BY
+- JOINs
+- Subqueries
+- Sales and Business Analysis
+
+### Power BI
+- Data Modeling
+- DAX
+- KPI Cards
+- Interactive Dashboards
+- Slicers
+- Sales Visualizations
+
 ## Key Analysis
+
 - Total Sales
 - Total Profit
 - Total Orders
@@ -19,10 +38,18 @@ This project analyzes sales data to identify sales performance, customer trends,
 - Sales by Product
 - Monthly Sales Trends
 - Customer Analysis
-- Profitability Analysis
+- Regional Performance
 
-## Objective
-To transform raw sales data into meaningful business insights that support data-driven decision making.
+## Project Workflow
 
-## Project Files
-- `Business_Analyst_Sales_Project.xlsx` – Excel sales analysis project
+Raw Data → Excel Analysis → SQL Analysis → Power BI Dashboard → Business Insights
+
+## Files Included
+
+- `Business_Analyst_Sales_Project.xlsx` – Excel analysis
+- `Business_Sales_Analysis.sql` – SQL queries and analysis
+- `Business_Sales_Dashboard.pbix` – Power BI dashboard
+
+## Skills Demonstrated
+
+Excel | SQL | Power BI | Data Cleaning | Data Analysis | Data Visualization | Business Intelligence
